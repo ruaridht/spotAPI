@@ -33,7 +33,6 @@ enum {
 	// ... do whatever
 	//[plugin swizzleGrowl];
 	[plugin enableShortcuts];
-	NSLog(@"------------------- spotify launched -------------------");
 }
 
 /**
@@ -126,9 +125,20 @@ enum {
 	
 	NSString *path = [NSString stringWithFormat:@"%@%@%@", @"/Users/", NSUserName(), @"/Library/Preferences/com.lifeupnorth.Spotify-Menubar.plist"];
 	NSDictionary *dict = [NSDictionary dictionaryWithContentsOfFile:path];
-	NSDictionary *ppGH = [dict objectForKey:@"ppGlobalHotkey"];
-	NSDictionary *sfGH = [dict objectForKey:@"sfGlobalHotkey"];
-	NSDictionary *sbGH = [dict objectForKey:@"sbGlobalHotkey"];
+	
+	NSDictionary *ppGH;
+	NSDictionary *sfGH;
+	NSDictionary *sbGH;
+	
+	if (dict) {
+		ppGH = [dict objectForKey:@"ppGlobalHotkey"];
+		sfGH = [dict objectForKey:@"sfGlobalHotkey"];
+		sbGH = [dict objectForKey:@"sbGlobalHotkey"];
+	} else {
+		ppGH = [NSDictionary dictionaryWithObjectsAndKeys:[NSNumber numberWithInt:49], @"keyCode", [NSNumber numberWithInt:2560], @"modifiers", nil];
+		sfGH = [NSDictionary dictionaryWithObjectsAndKeys:[NSNumber numberWithInt:124], @"keyCode", [NSNumber numberWithInt:8391168], @"modifiers", nil];
+		sbGH = [NSDictionary dictionaryWithObjectsAndKeys:[NSNumber numberWithInt:123], @"keyCode", [NSNumber numberWithInt:8391168], @"modifiers", nil];
+	}
 	
 	[[NSUserDefaults standardUserDefaults] setObject:ppGH forKey:@"ppGHlun"];
 	[[NSUserDefaults standardUserDefaults] setObject:sfGH forKey:@"sfGHlun"];

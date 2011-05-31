@@ -70,6 +70,21 @@
 			553508881349124B0032BAE4 = 553508881349124B0032BAE4 /* PBXTextBookmark */;
 			553508891349124B0032BAE4 = 553508891349124B0032BAE4 /* PBXTextBookmark */;
 			553E7B6413955892001F6398 /* PBXTextBookmark */ = 553E7B6413955892001F6398 /* PBXTextBookmark */;
+			553E7B7313955A9F001F6398 /* PBXTextBookmark */ = 553E7B7313955A9F001F6398 /* PBXTextBookmark */;
+			553E7B7513955A9F001F6398 /* PBXTextBookmark */ = 553E7B7513955A9F001F6398 /* PBXTextBookmark */;
+			553E7B7613955A9F001F6398 /* PBXTextBookmark */ = 553E7B7613955A9F001F6398 /* PBXTextBookmark */;
+			553E7B8B13955B1A001F6398 /* PBXTextBookmark */ = 553E7B8B13955B1A001F6398 /* PBXTextBookmark */;
+			553E7B8E13955B32001F6398 /* PBXTextBookmark */ = 553E7B8E13955B32001F6398 /* PBXTextBookmark */;
+			553E7B8F13955B65001F6398 /* PBXTextBookmark */ = 553E7B8F13955B65001F6398 /* PBXTextBookmark */;
+			553E7B9013955BBC001F6398 /* PBXTextBookmark */ = 553E7B9013955BBC001F6398 /* PBXTextBookmark */;
+			553E7B9713955C29001F6398 /* PBXTextBookmark */ = 553E7B9713955C29001F6398 /* PBXTextBookmark */;
+			553E7B9C13955C8F001F6398 /* PBXTextBookmark */ = 553E7B9C13955C8F001F6398 /* PBXTextBookmark */;
+			553E7BA513955CDC001F6398 /* PBXTextBookmark */ = 553E7BA513955CDC001F6398 /* PBXTextBookmark */;
+			553E7BAA13955D75001F6398 /* PBXTextBookmark */ = 553E7BAA13955D75001F6398 /* PBXTextBookmark */;
+			553E7BAF13955DAA001F6398 /* PBXTextBookmark */ = 553E7BAF13955DAA001F6398 /* PBXTextBookmark */;
+			553E7BB413955E0F001F6398 /* PBXTextBookmark */ = 553E7BB413955E0F001F6398 /* PBXTextBookmark */;
+			553E7BB913955E40001F6398 /* PBXTextBookmark */ = 553E7BB913955E40001F6398 /* PBXTextBookmark */;
+			553E7BBE13955ED3001F6398 /* PBXTextBookmark */ = 553E7BBE13955ED3001F6398 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 55C2FC0C1239349A0068AB9E /* Source Control */;
 		userBuildSettings = {
@@ -235,7 +250,7 @@
 		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
 		name = "spotAPI.m: 126";
 		rLen = 0;
-		rLoc = 3664;
+		rLoc = 3595;
 		rType = 0;
 		vrLen = 2330;
 		vrLoc = 2543;
@@ -245,10 +260,166 @@
 		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
 		name = "spotAPI.m: 97";
 		rLen = 0;
-		rLoc = 2547;
+		rLoc = 2478;
 		rType = 0;
 		vrLen = 2138;
 		vrLoc = 1745;
+	};
+	553E7B7313955A9F001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 553E7B7413955A9F001F6398 /* project.pbxproj */;
+		name = "project.pbxproj: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 4836;
+		vrLoc = 0;
+	};
+	553E7B7413955A9F001F6398 /* project.pbxproj */ = {
+		isa = PBXFileReference;
+		name = project.pbxproj;
+		path = /Users/Northern/DockDesktop/DesktopME/Dev/spotAPI/spotAPI.xcodeproj/project.pbxproj;
+		sourceTree = "<absolute>";
+	};
+	553E7B7513955A9F001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 97";
+		rLen = 0;
+		rLoc = 2478;
+		rType = 0;
+		vrLen = 2066;
+		vrLoc = 1745;
+	};
+	553E7B7613955A9F001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 140";
+		rLen = 0;
+		rLoc = 4037;
+		rType = 0;
+		vrLen = 2250;
+		vrLoc = 2474;
+	};
+	553E7B8B13955B1A001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 133";
+		rLen = 0;
+		rLoc = 4487;
+		rType = 0;
+		vrLen = 2437;
+		vrLoc = 2474;
+	};
+	553E7B8E13955B32001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 133";
+		rLen = 0;
+		rLoc = 4487;
+		rType = 0;
+		vrLen = 2576;
+		vrLoc = 2474;
+	};
+	553E7B8F13955B65001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 133";
+		rLen = 0;
+		rLoc = 4487;
+		rType = 0;
+		vrLen = 2561;
+		vrLoc = 2474;
+	};
+	553E7B9013955BBC001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 136";
+		rLen = 0;
+		rLoc = 4490;
+		rType = 0;
+		vrLen = 2600;
+		vrLoc = 2474;
+	};
+	553E7B9713955C29001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 141";
+		rLen = 0;
+		rLoc = 4037;
+		rType = 0;
+		vrLen = 2401;
+		vrLoc = 2916;
+	};
+	553E7B9C13955C8F001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 149";
+		rLen = 0;
+		rLoc = 4492;
+		rType = 0;
+		vrLen = 2375;
+		vrLoc = 2916;
+	};
+	553E7BA513955CDC001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 132";
+		rLen = 0;
+		rLoc = 3880;
+		rType = 0;
+		vrLen = 2614;
+		vrLoc = 2916;
+	};
+	553E7BAA13955D75001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 149";
+		rLen = 0;
+		rLoc = 4492;
+		rType = 0;
+		vrLen = 2515;
+		vrLoc = 2916;
+	};
+	553E7BAF13955DAA001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 143";
+		rLen = 0;
+		rLoc = 4487;
+		rType = 0;
+		vrLen = 2488;
+		vrLoc = 2916;
+	};
+	553E7BB413955E0F001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 141";
+		rLen = 0;
+		rLoc = 4037;
+		rType = 0;
+		vrLen = 2396;
+		vrLoc = 2916;
+	};
+	553E7BB913955E40001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 141";
+		rLen = 0;
+		rLoc = 4037;
+		rType = 0;
+		vrLen = 2632;
+		vrLoc = 2916;
+	};
+	553E7BBE13955ED3001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 141";
+		rLen = 0;
+		rLoc = 4490;
+		rType = 0;
+		vrLen = 2422;
+		vrLoc = 2876;
 	};
 	55663E1A123A41A9008DF45F /* JRSwizzle.h */ = {
 		uiCtxt = {
@@ -287,9 +458,9 @@
 	};
 	55C2FC1212393CDB0068AB9E /* spotAPI.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1818, 2067}}";
-			sepNavSelRange = "{2547, 0}";
-			sepNavVisRange = "{1745, 2138}";
+			sepNavIntBoundsRect = "{{0, 0}, {1818, 2054}}";
+			sepNavSelRange = "{4490, 0}";
+			sepNavVisRange = "{2876, 2422}";
 			sepNavWindowFrame = "{{15, 57}, {753, 821}}";
 		};
 	};
