@@ -1,0 +1,299 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Release;
+		activeTarget = 8D5B49AC048680CD000E48DA /* spotAPI */;
+		addToTargets = (
+			8D5B49AC048680CD000E48DA /* spotAPI */,
+		);
+		codeSenseManager = 55C2FC0D1239349A0068AB9E /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					708,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328554632;
+			PBXWorkspaceStateSaveDate = 328554632;
+		};
+		perUserProjectItems = {
+			5511251D127B18890081D915 = 5511251D127B18890081D915 /* PBXTextBookmark */;
+			55112520127B18890081D915 = 55112520127B18890081D915 /* PBXTextBookmark */;
+			5535062E134767EA0032BAE4 = 5535062E134767EA0032BAE4 /* PBXTextBookmark */;
+			5535064B134778DC0032BAE4 = 5535064B134778DC0032BAE4 /* PBXTextBookmark */;
+			5535064C134778DC0032BAE4 = 5535064C134778DC0032BAE4 /* PBXTextBookmark */;
+			553506951347D8060032BAE4 = 553506951347D8060032BAE4 /* PBXTextBookmark */;
+			553506991347D8060032BAE4 = 553506991347D8060032BAE4 /* PBXTextBookmark */;
+			553506A81347D8600032BAE4 = 553506A81347D8600032BAE4 /* PBXTextBookmark */;
+			553508861349124B0032BAE4 = 553508861349124B0032BAE4 /* PlistBookmark */;
+			553508871349124B0032BAE4 = 553508871349124B0032BAE4 /* PBXTextBookmark */;
+			553508881349124B0032BAE4 = 553508881349124B0032BAE4 /* PBXTextBookmark */;
+			553508891349124B0032BAE4 = 553508891349124B0032BAE4 /* PBXTextBookmark */;
+			553E7B6413955892001F6398 /* PBXTextBookmark */ = 553E7B6413955892001F6398 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 55C2FC0C1239349A0068AB9E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 489}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	5511251D127B18890081D915 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5511251E127B18890081D915 /* SPGrowlDelegate.h */;
+		name = "SPGrowlDelegate.h: 18";
+		rLen = 59;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 486;
+		vrLoc = 0;
+	};
+	5511251E127B18890081D915 /* SPGrowlDelegate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SPGrowlDelegate.h;
+		path = "/Users/Northern/DockDesktop/Temp Desktop/Spotify Mach/Header Files/SPGrowlDelegate.h";
+		sourceTree = "<absolute>";
+	};
+	55112520127B18890081D915 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55112521127B18890081D915 /* SPEditMetadataWindowController.h */;
+		name = "SPEditMetadataWindowController.h: 11";
+		rLen = 2020;
+		rLoc = 230;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 1059;
+	};
+	55112521127B18890081D915 /* SPEditMetadataWindowController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = SPEditMetadataWindowController.h;
+		path = "/Users/Northern/DockDesktop/Temp Desktop/Spotify Mach/Header Files/SPEditMetadataWindowController.h";
+		sourceTree = "<absolute>";
+	};
+	5514EF90123A84A20059C56A /* something.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 2366}}";
+			sepNavSelRange = "{1250, 1390}";
+			sepNavVisRange = "{2062, 838}";
+			sepNavWindowFrame = "{{15, 4}, {511, 869}}";
+		};
+	};
+	5535062E134767EA0032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55663E1B123A41A9008DF45F /* JRSwizzle.m */;
+		name = "JRSwizzle.m: 5";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 1508;
+		vrLoc = 0;
+	};
+	5535064B134778DC0032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55663E1A123A41A9008DF45F /* JRSwizzle.h */;
+		name = "JRSwizzle.h: 14";
+		rLen = 0;
+		rLoc = 574;
+		rType = 0;
+		vrLen = 574;
+		vrLoc = 0;
+	};
+	5535064C134778DC0032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5514EF90123A84A20059C56A /* something.h */;
+		name = "something.h: 97";
+		rLen = 1390;
+		rLoc = 1250;
+		rType = 0;
+		vrLen = 838;
+		vrLoc = 2062;
+	};
+	553506951347D8060032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	553506991347D8060032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5535069A1347D8060032BAE4 /* BuildLog_2011-04-02_23-16-02.txt */;
+		name = "BuildLog_2011-04-02_23-16-02.txt: 15";
+		rLen = 0;
+		rLoc = 1223;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 0;
+	};
+	5535069A1347D8060032BAE4 /* BuildLog_2011-04-02_23-16-02.txt */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		path = "BuildLog_2011-04-02_23-16-02.txt";
+		sourceTree = "<group>";
+	};
+	553506A81347D8600032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 553506A91347D8600032BAE4 /* BuildLog_2011-04-02_23-16-25.txt */;
+		name = "BuildLog_2011-04-02_23-16-25.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 0;
+	};
+	553506A91347D8600032BAE4 /* BuildLog_2011-04-02_23-16-25.txt */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		path = "BuildLog_2011-04-02_23-16-25.txt";
+		sourceTree = "<group>";
+	};
+	553508861349124B0032BAE4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D5B49B7048680CD000E48DA /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			SIMBLTargetApplications,
+			0,
+			MinBundleVersion,
+		);
+		name = /Users/Northern/DockDesktop/DesktopME/Dev/spotAPI/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	553508871349124B0032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1112393CDB0068AB9E /* spotAPI.h */;
+		name = "spotAPI.h: 37";
+		rLen = 143;
+		rLoc = 722;
+		rType = 0;
+		vrLen = 872;
+		vrLoc = 0;
+	};
+	553508881349124B0032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 29";
+		rLen = 0;
+		rLoc = 555;
+		rType = 0;
+		vrLen = 1544;
+		vrLoc = 420;
+	};
+	553508891349124B0032BAE4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 126";
+		rLen = 0;
+		rLoc = 3664;
+		rType = 0;
+		vrLen = 2330;
+		vrLoc = 2543;
+	};
+	553E7B6413955892001F6398 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 55C2FC1212393CDB0068AB9E /* spotAPI.m */;
+		name = "spotAPI.m: 97";
+		rLen = 0;
+		rLoc = 2547;
+		rType = 0;
+		vrLen = 2138;
+		vrLoc = 1745;
+	};
+	55663E1A123A41A9008DF45F /* JRSwizzle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 496}}";
+			sepNavSelRange = "{574, 0}";
+			sepNavVisRange = "{0, 574}";
+		};
+	};
+	55663E1B123A41A9008DF45F /* JRSwizzle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 1534}}";
+			sepNavSelRange = "{236, 0}";
+			sepNavVisRange = "{0, 1508}";
+		};
+	};
+	55C2FC0C1239349A0068AB9E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	55C2FC0D1239349A0068AB9E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	55C2FC1112393CDB0068AB9E /* spotAPI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {926, 741}}";
+			sepNavSelRange = "{722, 143}";
+			sepNavVisRange = "{0, 872}";
+		};
+	};
+	55C2FC1212393CDB0068AB9E /* spotAPI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1818, 2067}}";
+			sepNavSelRange = "{2547, 0}";
+			sepNavVisRange = "{1745, 2138}";
+			sepNavWindowFrame = "{{15, 57}, {753, 821}}";
+		};
+	};
+	8D5B49AC048680CD000E48DA /* spotAPI */ = {
+		activeExec = 0;
+	};
+}
